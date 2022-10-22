@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RavenIcaurs
-- 👀 I’m reading PHD in Fudan University
+- 👀 I’m working hard for PHD in Fudan University
 - 🌱 I’m currently learning Extreme Value Theory and Deep Learning
 
 <!---
